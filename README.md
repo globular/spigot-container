@@ -73,6 +73,20 @@ In order to examine the Spigot logs. Issue the following command:
 
 This phase might take a while. All persistenc files are saved to the **workdir** directory. To exit press CTRL-C.
 
+## Stop Spigot
+
+To stop Spigot, issue the following command:
+```
+./stop.sh
+```
+
+## Attach to the Spigot console
+
+In order to attach to the Spigot console, issue the following command:
+```
+./attach.sh
+```
+
 Congratulations, you are now running Spigot in a container. To verify that the container is running. Issue the following command:
 ```
 docker ps
