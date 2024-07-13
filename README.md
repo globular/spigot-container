@@ -46,7 +46,7 @@ Should an error occur during this stage, please refer to search engines and docu
 ./build-run.sh
 ```
 
-If everything goes according to plans, you will have the images built. You can veriofy that with the following command:
+If everything goes according to plans, you will have the images built. You can verify that with the following command:
 ```
 docker images
 ```
